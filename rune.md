@@ -31,14 +31,14 @@ Resang will be able to ascend to either a Knight or a Cleric.
 
 The classes go like this:
 
-`	   /---Fighter---->Eviscerator`    
-Human--    
-`	   \---Rogue------>Repellent`    
-
-    
-`	   /---Knight------Dreadnought`    
-Resang-    
-`	   \---Cleric------Cardinal`    
+`/---Fighter---->Eviscerator`    	   
+Human--    	   
+`	   \---Rogue------>Repellent`    	   
+	   
+    	   
+`	   /---Knight------Dreadnought`    	   
+Resang-    	   
+`	   \---Cleric------Cardinal`    	   
 
 
 Features extended
